@@ -19,7 +19,7 @@ namespace Assignment2
 
 
             //User Input
-            //new thing
+            
      
             Console.WriteLine("Consumed Units: ");
             ConsumedUnits = double.Parse(Console.ReadLine());
