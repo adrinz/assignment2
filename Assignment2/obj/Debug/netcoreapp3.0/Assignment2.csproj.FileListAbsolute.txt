@@ -1,0 +1,11 @@
+/Users/adrian/Projects/ElectricityBill/Assignment2/obj/Debug/netcoreapp3.0/Assignment2.csprojAssemblyReference.cache
+/Users/adrian/Projects/ElectricityBill/Assignment2/obj/Debug/netcoreapp3.0/Assignment2.AssemblyInfoInputs.cache
+/Users/adrian/Projects/ElectricityBill/Assignment2/obj/Debug/netcoreapp3.0/Assignment2.AssemblyInfo.cs
+/Users/adrian/Projects/ElectricityBill/Assignment2/bin/Debug/netcoreapp3.0/Assignment2
+/Users/adrian/Projects/ElectricityBill/Assignment2/bin/Debug/netcoreapp3.0/Assignment2.deps.json
+/Users/adrian/Projects/ElectricityBill/Assignment2/bin/Debug/netcoreapp3.0/Assignment2.runtimeconfig.json
+/Users/adrian/Projects/ElectricityBill/Assignment2/bin/Debug/netcoreapp3.0/Assignment2.runtimeconfig.dev.json
+/Users/adrian/Projects/ElectricityBill/Assignment2/bin/Debug/netcoreapp3.0/Assignment2.dll
+/Users/adrian/Projects/ElectricityBill/Assignment2/bin/Debug/netcoreapp3.0/Assignment2.pdb
+/Users/adrian/Projects/ElectricityBill/Assignment2/obj/Debug/netcoreapp3.0/Assignment2.dll
+/Users/adrian/Projects/ElectricityBill/Assignment2/obj/Debug/netcoreapp3.0/Assignment2.pdb

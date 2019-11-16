@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adrian/Projects/ElectricityBill/Assignment2/Assignment2.csproj": {}
+  },
+  "projects": {
+    "/Users/adrian/Projects/ElectricityBill/Assignment2/Assignment2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adrian/Projects/ElectricityBill/Assignment2/Assignment2.csproj",
+        "projectName": "Assignment2",
+        "projectPath": "/Users/adrian/Projects/ElectricityBill/Assignment2/Assignment2.csproj",
+        "packagesPath": "/Users/adrian/.nuget/packages/",
+        "outputPath": "/Users/adrian/Projects/ElectricityBill/Assignment2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adrian/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
