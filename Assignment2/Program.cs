@@ -18,7 +18,7 @@ namespace Assignment2
                                                                
 
             //Define Variable
-            0
+
             double ConsumedUnits;
             double from150to250Units;
             double above250Units;
@@ -57,7 +57,7 @@ namespace Assignment2
 
             //print
             Console.WriteLine("******************************************");
-            Console.WriteLine("Your total Bill is: $" + totalWithSurcharge);
+            Console.WriteLine("Your total bill amount is: $" + totalWithSurcharge);
 
 
             ReadLine();
