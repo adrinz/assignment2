@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{6558C5D2-8360-4667-9E77-62B06D8D918A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment2/EmptyClass.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{1A579456-DDEE-484D-9395-CE34BBF0854E}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Assignment2/Program.cs" Line="66" Column="1" />
-      <File FileName="Assignment2/EmptyClass.cs" Line="11" Column="1" />
+      <File FileName="Program.cs" Line="21" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ElectricityBill" expanded="True">
+          <Node name="Assignment2" expanded="True">
             <Node name="Assignment2" expanded="True">
-              <Node name="EmptyClass.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

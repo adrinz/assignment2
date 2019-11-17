@@ -7,9 +7,18 @@ namespace Assignment2
     {
         static void Main(string[] args)
         {
-            //Define Variable
+            /*
+             Write a C program to input electricity unit charges and calculate total electricity bill according to the given condition:
+             For first 50 units Rs. 0.50 / unit
+             For next 100 units Rs. 0.75 / unit
+             For next 100 units Rs. 1.20 / unit
+             For unit above 250 Rs. 1.50 / unit
+             An additional surcharge of 20 % is added to the bill
+             */
+                                                               
 
-            //double TotalElectricityBill;
+            //Define Variable
+            0
             double ConsumedUnits;
             double from150to250Units;
             double above250Units;
@@ -19,12 +28,10 @@ namespace Assignment2
 
 
             //User Input
-            
-     
-            Console.WriteLine("Consumed Units: ");
+            Console.Write("Enter your consumed units: ");
             ConsumedUnits = double.Parse(Console.ReadLine());
 
-            //condition
+            //Condition
             if (ConsumedUnits <= 50)
             {
                 total = ConsumedUnits * 0.5;
@@ -44,16 +51,13 @@ namespace Assignment2
                 total = (above250Units * 1.5) + (100 * 1.20) + (100 * 0.75) + (50 * 0.5);
             }
 
-            //total
+            //total with surcharges
             double totalWithSurcharge = total + (total * Surcharges);
-            //surcharge
+
+
             //print
-            Console.WriteLine("Your total Bill is: " + totalWithSurcharge);
-
-
-            //Condition Check
-
-
+            Console.WriteLine("******************************************");
+            Console.WriteLine("Your total Bill is: $" + totalWithSurcharge);
 
 
             ReadLine();
