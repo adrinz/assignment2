@@ -1,19 +1,8 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{1A579456-DDEE-484D-9395-CE34BBF0854E}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Program.cs" Line="60" Column="55" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Assignment2" expanded="True">
-            <Node name="Assignment2" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Assignment2 PreferredExecutionTarget="MonoDevelop.Default" />

@@ -1,10 +1,13 @@
 ﻿using System;
-namespace Assignment2
+namespace EmptyClass2
 {
     public class EmptyClass
     {
         public EmptyClass()
+
         {
+            Console.WriteLine("Welcome to Disney+");
         }
+
     }
 }
